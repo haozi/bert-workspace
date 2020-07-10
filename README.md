@@ -14,3 +14,6 @@ docker exec bert zsh -c 'cd /tmp && /home/ubuntu/.conda/bin/bert-serving-start -
 ```
 
 待 bert server 启动完成后，打开 <http://127.0.0.1:8888>
+
+运行效果
+![](https://img.alicdn.com/tfs/TB1Of7VNbr1gK0jSZFDXXb9yVXa-1416-530.png)
