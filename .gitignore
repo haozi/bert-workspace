@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+node_modules
+model/**
+npm-package.json
+yarn.lock
+*.log
